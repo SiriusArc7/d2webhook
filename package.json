@@ -1,0 +1,24 @@
+{
+  "name": "d2webhook",
+  "version": "1.0.0",
+  "description": "detect someone talking on particular text channel and notify to slack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yasufumi Kowase (@SiriusArc7)",
+  "license": "ISC",
+  "dependencies": {
+    "@slack/webhook": "^6.0.0",
+    "discord.js": "^12.5.1"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "discord",
+    "slack",
+    "bridge",
+    "discordjs",
+    "nodejs",
+    "javascript"
+  ]
+}

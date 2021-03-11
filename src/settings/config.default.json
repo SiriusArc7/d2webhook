@@ -1,0 +1,6 @@
+{
+    "slackwebhook": "Your slack webhook URL",
+    "discordID": "Your discord server ID",
+    "discordBotToken" : "Your discord bot token",
+    "discordWatchChannelID" : "ID of the discord channel that you want to watch"
+}
